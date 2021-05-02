@@ -1,0 +1,65 @@
+{
+  "name": "personal-extension-pack",
+  "author": "Marcus Silva <mvfsillva@gmail.com>",
+  "publisher": "mvfsillva",
+  "displayName": "Marcus's extension pack",
+  "description": "Collection of personal extensions that I use in my day-to-day",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mvfsillva/personal-extensions-pack"
+  },
+  "icon": "logo.png",
+  "galleryBanner": {
+    "color": "#A60C2E",
+    "theme": "dark"
+  },
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.46.0"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "next",
+    "styled-components",
+    "graphql",
+    "redux",
+    "rematch",
+    "apollo",
+    "jest",
+    "thunder client"
+  ],
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "ms-vscode.atom-keybindings",
+    "ms-vsliveshare.vsliveshare-pack",
+    "ms-python.python",
+    "ms-vscode.vscode-typescript-next",
+    "rangav.vscode-thunder-client",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "jpoissonnier.vscode-styled-components",
+    "apollographql.vscode-apollo",
+    "Tabnine.tabnine-vscode",
+    "piotrpalarz.vscode-gitignore-generator",
+    "orta.vscode-jest",
+    "wallabyjs.quokka-vscode",
+    "editorconfig.editorconfig",
+    "pulkitgangwar.nextjs-snippets",
+    "formulahendry.auto-rename-tag",
+    "streetsidesoftware.code-spell-checker",
+    "eamodio.gitlens",
+    "shan.code-settings-sync",
+    "formulahendry.auto-close-tag",
+    "meganrogge.template-string-converter",
+    "mariusalchimavicius.json-to-ts",
+    "visualstudioexptteam.vscodeintellicode",
+    "dsznajder.es7-react-js-snippets",
+    "antfu.icons-carbon",
+    "yummygum.city-lights-icon-vsc",
+    "patbenatar.advanced-new-file",
+    "sleistner.vscode-fileutils"
+  ]
+}
