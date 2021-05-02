@@ -1,6 +1,4 @@
-<p align="center">
-  <img width="600px" height="auto" src="mvfsillva.png" alt="Marcus Silva"/>
-</p>
+![Banner](mvfsillva.png)
 
 ---
 
